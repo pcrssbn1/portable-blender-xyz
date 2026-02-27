@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://portable-blender.xyz/sitemap.xml
